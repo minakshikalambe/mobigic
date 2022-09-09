@@ -1,6 +1,8 @@
 # mobigic
 
-Command to start the server
+Command to start the 
+
+
 $npm i
 $npm start
 
